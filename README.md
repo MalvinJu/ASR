@@ -13,3 +13,7 @@ Here, is the format of listPrompts.txt:
 .
 .
 ```
+
+## Indonesia Pronounciation
+
+Useing 33 Indonesia Phonems to add pronounciation to a dictionary. Input is wlist file.
